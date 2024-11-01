@@ -14,5 +14,6 @@ This project is licensed under the MIT License. Feel free to use, share, and mod
 
 - **Community**: While this roadmap acts as a personal guide, collaboration and community support can greatly enhance your learning experience. Don't hesitate to join web development forums, groups, or study circles.
 - **Continuous Learning**: Web development evolves rapidly. Continuously seek out new tools, frameworks, and best practices to stay updated.
+- **Evolution**: f you have suggestions or come across valuable resources that you think should be included, don’t hesitate to reach out! Your ideas are always welcome and help make this guide better for everyone. You can share your recommendations by emailing me at raizadaharshit2004@gmail.com.
 
 Thank you for choosing my roadmap for your learning path. We wish you all the best in your web development journey! Happy coding! 🎉✨
